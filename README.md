@@ -5,7 +5,8 @@ Welcome to the Anicecream Website project!
  - HTML
  - CSS
 - JavaScript
-Here is my hosting link 
+
+Here is my hosting link: https://pragnyasingh4.github.io/Anicecream/
 
 The ecommerce website is basically Anicecream website. It is generally to facilitate the purchase of the icecream .The page contains contact us, order and gallery which shows various types of icecreams you want to order and a cart is als0 added.Product listings were displayed on the website using HTML templates with CSS for styling and JS for interactivity.
 
